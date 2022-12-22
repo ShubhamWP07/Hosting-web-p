@@ -1,0 +1,236 @@
+@media only screen and (max-width: 992px) and (min-width: 600px) {
+
+    /* HEADER-SECTION-STYLING */
+
+  .header-section{
+    width: 100%;
+    padding: 25px 10px;
+  }
+
+  .left-header-sec{
+    flex-basis: 33%;
+  }
+
+  .middle-header-sec{
+    flex-basis: 33%;
+  }
+
+  .right-header-sec{
+    flex-basis: 33%
+  }
+
+  .right-header-sec{
+    margin-left: 70px;
+  }
+
+  .menu-icon{
+    display: none;
+  }
+
+  /* HERO-SECTION-STYLNG */
+
+  .hero-section{
+    width: 100%;
+    padding: 25px 10px;
+  } 
+
+  .left-hero-sec{
+    flex-basis: 50%;
+  }
+
+  .right-hero-section{
+    flex-basis: 50%;
+  }
+
+  .hero-heading{
+    font-size: 40px
+  }
+
+  .hero-img{
+    width: 435px;
+  }
+
+  .hero-p{
+    width: 90%;
+  }
+
+  /* LOGO-SECTION-STYLING  */
+  
+  .logo-section{
+    width: 90%;
+    
+  }
+
+  /* SERVICE-SECTION-STYLING */
+
+  .service-section{
+    width: 100%;
+    padding: 65px 10px;
+  }
+
+  .service-heading{
+    font-size: 40px;
+  }
+
+  .service-p{
+    width: 70%;
+  }
+
+  .service-box-con{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    gap: 70px;
+  }
+
+  .service-box-2{
+    margin-top: 0px;
+  }
+
+  /* FAQ-SECTION-STYLING */
+
+  .main-faq-con{
+    width: 100%;
+    text-align: center;
+  }
+
+  .faq-section{
+    width: 100%;
+    padding: 0px 20px;
+  }
+
+  .faq-heading{
+    font-size: 40px;
+  }
+
+  .faq-box-con{
+    flex-direction: column;
+  }
+
+  .right-faq-con{
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  /* PLAN-SECTION-STYLING */
+
+  .main-plan-section{
+    width: 100%;
+  }
+  
+  .paln-heading-sec{
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .plan-box-container{
+    width: 100%;
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 40px;
+  }
+
+  .plan-heading{
+    font-size: 40px;
+  }
+
+  /* <!-- TESTIMONIAL-SECTION-STYLING --> */
+
+  .testimonial-box-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    gap: 40px;
+    align-items: center;
+  }
+
+  .testimonial-section{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  .testi-heading{
+    font-size: 40px;
+  }
+
+  .testi-p{
+    width: 80%;
+  }
+
+ /* FORM-SECTION-STYLING */
+
+ .main-input-con{
+  padding: 0px 10px;
+ }
+ 
+ .form-section{
+  width: 100%;
+  margin: 0 auto;
+ }
+ 
+ .form-heading{
+  font-size: 40px;
+ }
+
+ .input-section{
+  width: 100%;
+  align-items: center;
+  border-radius: 35px;
+  padding-left: 100px;
+ }
+
+ .form{
+  /* padding: 22px 40px; */
+  align-items: center;
+  border-radius: 30px;
+  border: none;
+  background-color: #3e3d3d;
+  font-size: 18px;
+  margin-bottom: 20px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+ }
+
+   /* FOOTER-SECTION-STYLING */
+
+ .last-section{
+  width: 100%;
+ }  
+
+ .last-service-section{
+  width: 100%;
+ }
+ 
+ 
+ .last-hr{
+  width: 95%;
+  margin: 0 auto;
+ }
+
+ .last-logo-sec{
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+ }
+
+ 
+
+
+
+
+
+
+
+
+
+}
